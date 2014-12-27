@@ -256,7 +256,7 @@ h1#siteLogo {
 	position: fixed;
 	bottom: 0;
 	z-index: 10;
-	background: url(../img/layout/totopBg.png) 0 0 repeat-x #000;
+	background: url(img/totopBg.png) 0 0 repeat-x #000;
 	text-align: center;
 }
 
