@@ -129,7 +129,7 @@ h1#siteLogo {
 
 .appSummary figure {
 	padding: 20px 30px 25px;
-	background: url(appSummaryFigureBg.png) 0 bottom no-repeat #fff;
+	background: url(img/appSummaryFigureBg.png) 0 bottom no-repeat #fff;
 }
 
 .appSummary figure .photo {
